@@ -1,2 +1,7 @@
-# MarusicAnte-hw-01
-HomeWork-01
+# MarusicAnte's First Repository
+
+Hello, World !
+
+---
+
+Author: MarusicAnte
